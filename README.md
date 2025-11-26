@@ -2,6 +2,8 @@ This repository contains all codes associated to our article : Modelling the fun
 
 https://doi.org/10.1093/insilicoplants/diab036
 
+***
+
 Ce dossier contient tout le matériel nécessaire pour entrainer le reseau VoxNet à classer ou à deviner les paramètres environnements d’un jeu de simulation de croissance de l’espèce “plastique”.
 
 Plusieurs entrainement de ce réseau ont déjà été effectués et sont sauvegardés dans ce dossier. Pour effectuer une prediction, nul besoin de réentrainer le réseau ! Suivez la deuxième procédure décrite dans ce document.
