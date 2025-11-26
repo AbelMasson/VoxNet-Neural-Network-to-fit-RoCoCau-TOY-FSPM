@@ -1,4 +1,4 @@
-This repository contains all codes associated to the article by Masson et al. : Modelling the functional dependency between root and shoot compartments to predict the impact of the environment on the architecture of the whole plant: methodology for model fitting on simulated data using Deep Learning techniques. Pdf of the article is avaible in the repository and at this adress :  
+This repository contains all codes associated to our article : Modelling the functional dependency between root and shoot compartments to predict the impact of the environment on the architecture of the whole plant: methodology for model fitting on simulated data using Deep Learning techniques (masson et al. 2022). The article (pdf) is avaible in the repository and at this adress :  
 
 https://doi.org/10.1093/insilicoplants/diab036
 
